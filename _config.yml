@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yuxuan Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile_Photo_in_Blue.png"
-  name             : "Yuxuan Wang"
+  name             : "Yuxuan Wang (王雨轩)"
   pronouns         : # example: "he/his/him"  
   bio              : "Master Research Assistant at University of Florida"
   location         : "Gainesville, Florida"
