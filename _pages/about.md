@@ -11,7 +11,8 @@ Hello, this is Yuxuan's personal website. I am a graudated master student of Com
 
 Education
 ======
-B.S. of Computer Science major at Virginia Tech
+B.S. of Computer Science major at Virginia Tech \
+
 M.S. of Computer&Information Science&Engineering major at University of Florida
 
 My Research Interests
