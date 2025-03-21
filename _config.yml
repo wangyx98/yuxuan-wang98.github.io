@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yuxuan Wamg"
+  avatar           : "Profile_Photo_in_Blue.png"
+  name             : "Yuxuan Wang"
   pronouns         : # example: "he/his/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master Research Assistant at University of Florida"
   location         : "Gainesville, Florida"
-  employer         : "University of Florida Engineering Education Department"
+  employer         : "University of Florida "
   uri              : # URL
   email            : "wangyx9863@gmail.com" 
 
